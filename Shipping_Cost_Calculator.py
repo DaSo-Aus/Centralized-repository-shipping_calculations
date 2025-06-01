@@ -1,4 +1,5 @@
- # Here is a new update by <your GitHub username>
+ # Here is a new update by DaSo-Aus
+ # Here is another update by DaSo-Aus
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
